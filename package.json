@@ -1,6 +1,6 @@
 {
   "name": "license-guardian",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Scan node_modules for dependency licenses and gate CI on copyleft/unknown licenses that aren't explicitly approved.",
   "license": "MIT",
   "main": "dist/index.js",
